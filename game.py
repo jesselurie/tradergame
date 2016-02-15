@@ -44,6 +44,7 @@ class Game():
 		self.trends()
 		print "exit buy @ ",self.ask, " buy price=",self.buy_price
 		self.start()
+		
 	def exit_short(self):
 		self.trends()
 		print "exit short @ ", self.bid, " short price=",self.short_price
