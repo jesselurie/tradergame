@@ -1,0 +1,177 @@
+Sunday, February 14, 2016
+16:30		NZD Performance Services Index (JAN)	Medium	55.4		58.5			
+18:50		JPY Gross Domestic Product (QoQ) (4Q P)	Medium	-0.4%	-0.2%	0.3%			
+18:50		JPY Gross Domestic Product Annualized (QoQ) (4Q P)	High	-1.4%	-0.8%	1.3%			
+18:50		JPY Nominal Gross Domestic Product (QoQ) (4Q P)	Medium	-0.3%	-0.1%	0.6%			
+18:50		JPY Gross Domestic Product Deflator (YoY) (4Q P)	Low	1.5%	1.6%	1.8%			
+18:50		JPY GDP Private Consumption (QoQ) (4Q P)	Low	-0.8%	-0.6%	0.4%			
+18:50		JPY GDP Business Spending (QoQ) (4Q P)	Low	1.4%	-0.2%	0.7%			
+19:01		GBP Rightmove House Prices (MoM) (FEB)	Low	2.9%		0.5%			
+19:01		GBP Rightmove House Prices (YoY) (FEB)	Medium	7.2%		6.5%			
+19:30		AUD New Motor Vehicle Sales (MoM) (JAN)	Low	0.5%		-0.1%			
+19:30		AUD New Motor Vehicle Sales (YoY) (JAN)	Low	5.1%		2.4%			
+21:00		NZD Non Resident Bond Holdings (JAN)	Low	67.6%		67.4%			
+21:05		CNY Exports (YoY) CNY (JAN)	Low	-6.6%	3.6%	2.3%			
+21:05		CNY Imports (YoY) CNY (JAN)	Low	-14.4%	1.8%	-4.0%			
+21:05		CNY Trade Balance CNY (JAN)	Medium	406.20b	389.01b	382.05b			
+21:26		CNY Trade Balance (JAN)	Medium	$63.29	$60.60b	$60.09b			
+21:26		CNY Exports (YoY) (JAN)	Low	-11.2%	-1.8%	-1.4%			
+21:26		CNY Imports (YoY) (JAN)	Low	-18.8%	-3.6%	-7.6%			
+23:30		JPY Industrial Production (MoM) (DEC F)	Low	-1.7%		-1.4%			
+23:30		JPY Industrial Production (YoY) (DEC F)	Medium	-1.9%		-1.6%			
+23:30		JPY Capacity Utilization (MoM) (DEC)	Low	-1.0%		-0.1%			
+23:30		JPY Tertiary Industry Index (MoM) (DEC)	Medium	-0.6%	-0.1%	-0.9%			
+Monday, February 15, 2016
+ USD   CAD  HOLIDAYS
+03:00		CHF Total Sight Deposits (FEB 12)	Low	473.4b		472.5b			
+03:00		CHF Domestic Sight Deposits (FEB 12)	Low	409.2b		406.2b			
+05:00		EUR Euro-Zone Trade Balance s.a. (euros) (DEC)	Low	21.0b	22.0b	22.6b			
+05:00		EUR Euro-Zone Trade Balance (euros) (DEC)	Low	24.3b	27.5b	23.6b			
+09:00		EUR ECB's Draghi Speaks in EU Parliament Committee in Brussels	Medium						
+16:45		NZD Retail Sales Ex Inflation (QoQ) (4Q)	Medium	1.2%	1.5%	1.6%			
+17:30		AUD ANZ Roy Morgan Weekly Consumer Confidence Index (FEB 14)	Low	113.6		111.4			
+19:30		AUD RBA Feb. Meeting Minutes	Medium						
+21:00		NZD Reserve Bank of New Zealand 2-Year Inflation Expectation (1Q)	Medium			1.85%			
+23:00		JPY Tokyo Condominium Sales (YoY) (JAN)	Low			-34.1%			
+Tuesday, February 16, 2016
+NZD Dairy Auction Avg. Winning Price MT (FEB 16)	High			$2,276			
+NZD Dairy Auction Whole Milk Powder MT (FEB 16)	High						
+02:00		EUR EU 25 New Car Registrations (JAN)	Low			16.6%			
+04:30		GBP Consumer Price Index (MoM) (JAN)	Medium		-0.7%	0.1%			
+04:30		GBP Consumer Price Index (YoY) (JAN)	High		0.3%	0.2%			
+04:30		GBP Core Consumer Price Index (YoY) (JAN)	High		1.3%	1.4%			
+04:30		GBP Retail Price Index (JAN)	Low		259.0	260.6			
+04:30		GBP Retail Price Index (MoM) (JAN)	Low		-0.6%	0.3%			
+04:30		GBP Retail Price Index (YoY) (JAN)	Low		1.4%	1.2%			
+04:30		GBP Retail Price Index Ex Mort Int.Payments (YoY) (JAN)	Low		1.4%	1.3%			
+04:30		GBP Producer Price Index Input n.s.a. (MoM) (JAN)	Low		-1.2%	-0.8%			
+04:30		GBP Producer Price Index Input n.s.a. (YoY) (JAN)	Low		-8.6%	-10.8%			
+04:30		GBP Producer Price Index Output n.s.a. (MoM) (JAN)	Low		-0.2%	-0.2%			
+04:30		GBP Producer Price Index Output n.s.a. (YoY) (JAN)	Low		-0.9%	-1.2%			
+04:30		GBP Producer Price Index Output Core n.s.a. (MoM) (JAN)	Low		0.1%	0.2%			
+04:30		GBP Producer Price Index Output Core n.s.a. (YoY) (JAN)	Low		0.0%	0.1%			
+04:30		GBP DCLG UK House Prices (YoY) (DEC)	Low			7.7%			
+05:00		EUR German ZEW Survey (Current Situation) (FEB)	Medium		55.0	59.7			
+05:00		EUR German ZEW Survey (Economic Sentiment) (FEB)	Medium		0.0	10.2			
+05:00		EUR Euro-Zone ZEW Survey (Economic Sentiment) (FEB)	High			22.7			
+08:30		CAD Manufacturing Shipments (MoM) (DEC)	Low		0.8%	1.0%			
+08:30		USD Fed's Harker Speaks on Economy at University of Delaware	Low						
+08:30		USD Empire Manufacturing (FEB)	Low		-10.50	-19.37			
+09:00		CAD Existing Home Sales (MoM) (JAN)	Medium			-0.6%			
+10:00		USD NAHB Housing Market Index (FEB)	Medium		60	60			
+11:30		USD U.S. to Sell 3-Month Bills	Low						
+11:30		USD U.S. to Sell 6-Month Bills	Low						
+16:00		USD Total Net TIC Flows (DEC)	Low			-$3.2b			
+16:00		USD Net Long-term TIC Flows (DEC)	Medium			$31.4b			
+18:30		AUD Westpac Leading Index (MoM) (JAN)	Medium			-0.3%			
+18:50		JPY Machine Orders (MoM) (DEC)	Low		4.7%	-14.4%			
+18:50		JPY Machine Orders (YoY) (DEC)	Medium		-2.8%	1.2%			
+19:00		USD Fed's Rosengren Speaks at Colby College	Low						
+Wednesday, February 17, 2016
+USD MBA Mortgage Foreclosures (4Q)	Low			1.88%			
+USD Mortgage Delinquencies (4Q)	Low			4.99%			
+04:30		GBP Claimant Count Rate (JAN)	Medium		2.3%	2.3%			
+04:30		GBP Jobless Claims Change (JAN)	Medium		-3.0k	-4.3k			
+04:30		GBP Average Weekly Earnings (3M/YoY) (DEC)	Medium		1.9%	2.0%			
+04:30		GBP Weekly Earnings ex Bonus (3M/YoY) (DEC)	Medium		1.8%	1.9%			
+04:30		GBP ILO Unemployment Rate (3M) (DEC)	Medium		5.0%	5.1%			
+04:30		GBP Employment Change (3M/3M) (DEC)	Medium		225k	267k			
+05:00		EUR Euro-Zone Construction Output s.a. (MoM) (DEC)	Low			0.8%			
+05:00		EUR Euro-Zone Construction Output w.d.a. (YoY) (DEC)	Medium			2.1%			
+05:00		CHF ZEW Survey (Expectations) (FEB)	Medium			-3			
+07:00		USD MBA Mortgage Applications (FEB 12)	Medium			9.3%			
+08:30		USD Housing Starts (JAN)	Low		1175k	1149k			
+08:30		USD Housing Starts (MoM) (JAN)	Medium		2.3%	-2.5%			
+08:30		USD Building Permits (JAN)	Low		1200k	1204k			
+08:30		USD Building Permits (MoM) (JAN)	Medium		-0.3%	-6.1%			
+08:30		USD PPI Final Demand (MoM) (JAN)	Low		-0.2%	-0.2%			
+08:30		USD PPI Ex Food and Energy (MoM) (JAN)	Low		0.1%	0.2%			
+08:30		USD PPI Ex Food, Energy, Trade (MoM) (JAN)	Low		0.1%	0.2%			
+08:30		USD PPI Final Demand (YoY) (JAN)	Low		-0.6%	-1.0%			
+08:30		USD PPI Ex Food and Energy (YoY) (JAN)	Low		0.4%	0.3%			
+08:30		USD PPI Ex Food, Energy, Trade (YoY) (JAN)	Low			0.3%			
+08:30		CAD International Securities Transactions (Canadian dollar) (DEC)	Low			2.58b			
+09:15		USD Industrial Production (JAN)	Medium		0.4%	-0.4%			
+09:15		USD Capacity Utilization (JAN)	Low		76.7%	76.5%			
+09:15		USD Manufacturing (SIC) Production (JAN)	Medium		0.3%	-0.1%			
+11:30		USD U.S. to Sell 4-Week Bills	Low						
+14:00		USD U.S. Fed Releases Minutes from Jan. 26-27 FOMC Meeting	Medium						
+16:00		NZD ANZ Job Advertisements (MoM) (JAN)	Low			1.1%			
+16:45		NZD Producer Prices- Inputs (QoQ) (4Q)	Low			1.6%			
+16:45		NZD Producer Prices- Outputs (QoQ) (4Q)	Low			1.3%			
+18:50		JPY Japan Buying Foreign Bonds (Yen) (FEB 12)	Medium			¥1454.0b			
+18:50		JPY Japan Buying Foreign Stocks (Yen) (FEB 12)	Medium			¥202.4b			
+18:50		JPY Foreign Buying Japan Bonds (Yen) (FEB 12)	Low			¥19.5b			
+18:50		JPY Foreign Buying Japan Stocks (Yen) (FEB 12)	Low			-¥610.4b			
+18:50		JPY Merchandise Trade Balance Total (Yen) (JAN)	Medium		-¥648.3b	¥140.3b			
+18:50		JPY Adjusted Merchandise Trade Balance (Yen) (JAN)	Medium		¥62.1b	¥36.6b			
+18:50		JPY Merchandise Trade Exports (YoY) (JAN)	Low		-11	-8			
+18:50		JPY Merchandise Trade Imports (YoY) (JAN)	Low		-15.9	-18.0			
+19:00		NZD ANZ Consumer Confidence Index (FEB)	Low			121.4			
+19:00		NZD ANZ Consumer Confidence (MoM) (FEB)	Low			2.3%			
+19:30		AUD Unemployment Rate (JAN)	High		5.8%	5.8%			
+19:30		AUD Employment Change (JAN)	High		13.0k	-1.0k			
+19:30		AUD Full Time Employment Change (JAN)	Medium			17.6k			
+19:30		AUD Part Time Employment Change (JAN)	Low			-18.5k			
+19:30		AUD Participation Rate (JAN)	Low		65.2%	65.1%			
+19:30		AUD RBA FX Transactions Government (JAN)	Low			-1308m			
+19:30		AUD RBA Foreign Exchange Transaction (Australian dollar) (JAN)	Low			1175m			
+19:30		AUD RBA FX Transactions Other (JAN)	Low			140m			
+20:00		AUD RBA's Edey Speech in Sydney	Low						
+20:00		USD Fed's Bullard Speaks to CFA Society St. Louis	Low						
+20:30		CNY Consumer Price Index (YoY) (JAN)	High		1.9%	1.6%			
+20:30		CNY Producer Price Index (YoY) (JAN)	High		-5.4%	-5.9%			
+20:30		JPY BOJ Ishida speaks in Fukuoka	Low						
+Thursday, February 18, 2016
+02:00		CHF Trade Balance (Swiss franc) (JAN)	Medium			2.54b			
+02:00		CHF Exports (MoM) (JAN)	Low			-1.4%			
+02:00		CHF Imports (MoM) (JAN)	Low			-8.0%			
+04:00		EUR Euro-Zone Current Account s.a. (euros) (DEC)	Low			26.4b			
+04:00		EUR Euro-Zone Current Account n.s.a. (euros) (DEC)	Low			29.8b			
+07:30		EUR ECB account of the monetary policy meeting	Medium						
+08:30		CAD Wholesale Sales (MoM) (DEC)	Low		0.2%	1.8%			
+08:30		USD Philadelphia Fed. (FEB)	Medium		-3.0	-3.5			
+08:30		USD Initial Jobless Claims (FEB 13)	Medium		275k	269k			
+08:30		USD Continuing Claims (FEB 6)	Medium		2250k	2239k			
+10:00		USD Leading Indicators (JAN)	Medium		-0.2%	-0.2%			
+10:30		USD EIA Natural Gas Storage Change (FEB 12)	Low			-70			
+10:30		USD EIA Working Natural Gas Implied Flow (FEB 12)	Low			-70			
+11:00		USD DOE U.S. Crude Oil Inventories (FEB 12)	Medium			-754k			
+11:00		USD DOE Cushing OK Crude Inventory (FEB 12)	Low			523k			
+11:00		USD DOE U.S. Gasoline Inventories (FEB 12)	Low			1258k			
+11:00		USD DOE U.S. Distillate Inventory (FEB 12)	Low			1281k			
+13:00		USD U.S. to Sell 30-Year TIPS	Low						
+15:30		USD Fed's Williams Gives Outlook Speech in L.A.	Low						
+23:30		JPY All Industry Activity Index (MoM) (DEC)	Medium		-0.3%	-1.0%			
+Friday, February 19, 2016
+00:30		JPY Tokyo Department Store Sales (YoY) (JAN)	Low			2.2%			
+00:30		JPY Nationwide Department Store Sales (YoY) (JAN)	Low			0.1%			
+02:00		EUR German Producer Prices (MoM) (JAN)	Low		-0.3%	-0.5%			
+02:00		EUR German Producer Prices (YoY) (JAN)	Low		-2.0%	-2.3%			
+04:30		GBP Retail Sales (MoM) (JAN)	Low		0.7%	-0.9%			
+04:30		GBP Retail Sales (YoY) (JAN)	Medium		3.4%	2.1%			
+04:30		GBP Retail Sales Inc Auto Fuel (MoM) (JAN)	Low		0.8%	-1.0%			
+04:30		GBP Retail Sales Inc Auto Fuel (YoY) (JAN)	Medium		3.6%	2.6%			
+04:30		GBP Public Finances (PSNCR) (Pounds) (JAN)	Medium			8.1b			
+04:30		GBP Central Government NCR (JAN)	Medium			20.5b			
+04:30		GBP Public Sector Net Borrowing (Pounds) (JAN)	Medium		-13.9b	6.9b			
+04:30		GBP PSNB ex Banking Groups (JAN)	Medium		-12.3b	7.5b			
+08:00		USD Fed's Mester to Speak at Global Interdependence Center	Low						
+08:30		USD Consumer Price Index (MoM) (JAN)	Medium		-0.1%	-0.1%			
+08:30		USD Consumer Price Index (YoY) (JAN)	High		1.3%	0.7%			
+08:30		USD Consumer Price Index Ex Food & Energy (MoM) (JAN)	Medium		0.2%	0.1%			
+08:30		USD Consumer Price Index Ex Food & Energy (YoY) (JAN)	High		2.1%	2.1%			
+08:30		USD Consumer Price Index n.s.a. (JAN)	Low		236.606	236.525			
+08:30		USD Consumer Price Index Core Index s.a. (JAN)	Low		244.738	244.446			
+08:30		USD Real Avg Weekly Earnings (YoY) (JAN)	Medium			1.7%			
+08:30		CAD Retail Sales (MoM) (DEC)	Medium		-0.8%	1.7%			
+08:30		CAD Retail Sales Less Autos (MoM) (DEC)	Low		-0.6%	1.1%			
+08:30		CAD Consumer Price Index (MoM) (JAN)	Medium		-0.1%	-0.5%			
+08:30		CAD Consumer Price Index (YoY) (JAN)	High		1.7%	1.6%			
+08:30		CAD Bank Canada Consumer Price Index Core (MoM) (JAN)	Medium		0.2%	-0.4%			
+08:30		CAD Bank Canada Consumer Price Index Core (YoY) (JAN)	High		1.9%	1.9%			
+08:30		CAD Consumer Price Index (JAN)	Low		126.3	126.5			
+08:30		CAD CPI s.a. (MoM) (JAN)	Low		-0.1%	0.1%			
+08:30		CAD CPI Core s.a. (MoM) (JAN)	Low		0.2%	0.1%			
+10:00		EUR Euro-Zone Consumer Confidence (FEB A)	Medium		-6.6	-6.3			
+13:00		USD Baker Hughes U.S. Rig Count (FEB 19)	Medium			541			
